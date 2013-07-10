@@ -1,0 +1,8 @@
+C:\Users\Rob\Documents\GitHub\test\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll.config
+C:\Users\Rob\Documents\GitHub\test\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.dll
+C:\Users\Rob\Documents\GitHub\test\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.Tests.pdb
+C:\Users\Rob\Documents\GitHub\test\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.dll
+C:\Users\Rob\Documents\GitHub\test\MvcApplication1\MvcApplication1.Tests\bin\Debug\MvcApplication1.pdb
+C:\Users\Rob\Documents\GitHub\test\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Rob\Documents\GitHub\test\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.dll
+C:\Users\Rob\Documents\GitHub\test\MvcApplication1\MvcApplication1.Tests\obj\Debug\MvcApplication1.Tests.pdb
